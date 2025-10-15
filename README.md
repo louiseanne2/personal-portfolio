@@ -19,7 +19,7 @@ This portfolio includes the following main sections:
 
 ### 🏠 Home
 - Serves as the **landing page** introducing me at a glance.
-- Includes a showcase of my **skills** in programming, testing tools, and technologies I’m familiar with.
+- Includes a showcase of my **skills** in testing tools, and technologies I’m familiar with.
 - Designed with subtle animations and interactive visuals for an engaging first impression.
 
 ### 👩‍💻 About
@@ -61,7 +61,7 @@ This portfolio was developed with:
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
-Make sure you have **Node.js** and **npm** (or **yarn**) installed on your computer.
+Make sure you have **Node.js** and **npm** installed on your computer.
 
 ### Installation
 1. Clone the repository:
