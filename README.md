@@ -110,8 +110,7 @@ To deploy the project to GitHub Pages:
      export default defineConfig({
      
         base: "/YOUR_REPOSITORY_NAME/",
-     
-         plugins: [react()],
+        plugins: [react()],
       });
 4. **Add homepage in package.json file:**
    {
