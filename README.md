@@ -112,6 +112,7 @@ To deploy the project to GitHub Pages:
         base: "/YOUR_REPOSITORY_NAME/",
      
         plugins: [react()],
+     
       });
      
 4. **Add homepage in package.json file:**
