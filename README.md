@@ -110,16 +110,20 @@ To deploy the project to GitHub Pages:
      export default defineConfig({
      
         base: "/YOUR_REPOSITORY_NAME/",
+     
         plugins: [react()],
       });
+     
 4. **Add homepage in package.json file:**
+
+   
    {
    ...,
    "homepage": "https://<USERNAME>.github.io/<REPOSITORY_NAME>/",
    ...,
    }
-5. **Push Your Code to GitHub**
-6. **Deploy**
+6. **Push Your Code to GitHub**
+7. **Deploy**
     ```bash
    npm run deploy
    ```
