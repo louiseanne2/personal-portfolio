@@ -90,18 +90,37 @@ Make sure you have **Node.js** and **npm** installed on your computer.
 ## 🚀 Deployment
 
 To deploy the project to GitHub Pages:
-1. Build the project for production:
+1. **Install gh-pages:**
    ```bash
-   npm run build
+   npm install gh-pages--save-dev
    ```
-2. Push the build folder to the **gh-pages** branch:
-   ```bash
+2. **Update package.json scripts:**
+   - Add this
+   "scripts": {
+      ...,
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d dist"
+   }
+
+   
+3. **Configure vite.config.js:**
+   - set path depending on GitHub repository name
+     export default defineConfig({
+      base: "/YOUR_REPOSITORY_NAME/",
+      plugins: [react()],
+      });
+4. **Add homepage in package.json file:**
+   {
+   ...,
+   "homepage": "https://<USERNAME>.github.io/<REPOSITORY_NAME>/",
+   ...,
+   }
+5. **Push Your Code to GitHub**
+6. **Deploy**
+    ```bash
    npm run deploy
    ```
-3. Once deployed, your portfolio will be live at:
-   ```
-   https://your-username.github.io/personal-portfolio
-   ```
+
 
 ---
 
