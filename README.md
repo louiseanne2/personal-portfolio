@@ -108,5 +108,5 @@ To deploy the project to GitHub Pages:
 ## 🌍 Live Demo
 
 **GitHub Pages URL:**
-👉 [[https://your-username.github.io/personal-portfolio](https://your-username.github.io/personal-portfolio)](https://louiseanne2.github.io/personal-portfolio/)
+👉 [(https://louiseanne2.github.io/personal-portfolio/)]
 
