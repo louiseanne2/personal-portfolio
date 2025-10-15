@@ -135,8 +135,8 @@ To deploy the project to GitHub Pages:
 ## 🌍 Live Demo
 
 **GitHub Pages URL:**
-👉 [(https://louiseanne2.github.io/personal-portfolio/)]
+- 👉 [(https://louiseanne2.github.io/personal-portfolio/)]
 
 **Demo Recording:**
-👉 [(https://drive.google.com/drive/folders/19u7m7Tdlukxxrb9IQz-Oa0yc7hfXRTxY)]
+- 👉 [(https://drive.google.com/drive/folders/19u7m7Tdlukxxrb9IQz-Oa0yc7hfXRTxY)]
 
