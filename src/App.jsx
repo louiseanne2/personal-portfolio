@@ -220,7 +220,7 @@ function App() {
             </div>
             <p>You can download my resume below:</p>
               <a
-                href="/resume.pdf"
+                href="./resume.pdf"
                 download="Louise-Resume.pdf"
                 className="text-white font-medium hover:text-gray-300 transition-colors duration-300"
         >
