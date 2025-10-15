@@ -108,6 +108,7 @@ To deploy the project to GitHub Pages:
    - set path depending on GitHub repository name
   
      export default defineConfig({
+     
       base: "/YOUR_REPOSITORY_NAME/",
       plugins: [react()],
       });
