@@ -96,6 +96,7 @@ To deploy the project to GitHub Pages:
    ```
 2. **Update package.json scripts:**
    - Add this
+  
    "scripts": {
       ...,
       "predeploy": "npm run build",
